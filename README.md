@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**NoahHolbrook/NoahHolbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Central Florida and aspiring software engineer. I enjoy solving problems, understanding how things work, and turning ideas into useful software.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a foundation in software development through coursework and personal projects.
+- Exploring full-stack web development through The Odin Project.
+- Interested in practical applications of data structures and algorithms.
+- Always looking for opportunities to learn, contribute, and improve.
+
+## Technologies
+
+- **Languages:** C, Python, Java, JavaScript
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, Linux
+
+## What You'll Find Here
+
+Projects and exercises documenting what I’m building and learning, from programming fundamentals to web applications.
+
+## Connect
+
+- **Email:** Noahholbrook2004@gmail.com
+- **GitHub:** [@NoahHolbrook](https://github.com/NoahHolbrook)
