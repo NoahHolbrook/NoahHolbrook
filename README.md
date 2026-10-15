@@ -5,7 +5,6 @@ Computer Science student at the University of Central Florida and aspiring softw
 ## About Me
 
 - Building a foundation in software development through coursework and personal projects.
-- Exploring full-stack web development through The Odin Project.
 - Interested in practical applications of data structures and algorithms.
 - Always looking for opportunities to learn, contribute, and improve.
 
