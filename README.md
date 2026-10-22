@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computer Science student at the University of Central Florida and aspiring software engineer. I enjoy solving problems, understanding how things work, and turning ideas into useful software.
+Computer Science student at the University of Central Florida and software engineer. I enjoy solving problems, understanding how things work, and turning ideas into useful software.
 
 ## About Me
 
