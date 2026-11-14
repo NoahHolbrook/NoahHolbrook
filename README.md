@@ -7,7 +7,7 @@ Computer Science student at the University of Central Florida (B.S. expected 202
 - Building a foundation in software development through coursework and personal projects.
 - Interested in practical applications of data structures and algorithms.
 - Always looking for opportunities to learn, contribute, and improve.
-- Retail Team Member at Target since Mar 2023 — POS/printer/scanner troubleshooting
+- Retail Team Member at Target since Mar 2023 
 
 ## Technologies
 
