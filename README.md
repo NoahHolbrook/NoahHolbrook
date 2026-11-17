@@ -17,7 +17,6 @@ Computer Science student at the University of Central Florida (B.S. expected 202
 
 ## Projects
 
-- **[CodeKnight](https://github.com/NoahHolbrook/codeknight)** — Coding study assistant built for the Nebius x NVIDIA Global AI Hackathon (submitted)
 - **[Network Asset Inventory Tool](https://github.com/NoahHolbrook/network-asset-inventory-tool)** — Python CLI scanner that discovers hosts on a local subnet and exports IP, hostname, and MAC addresses to CSV
 - **[Cat Clinic Queue Simulator](https://github.com/NoahHolbrook/cat-clinic-queue-simulator)** — C simulator for clinic patient check-in, service, and discharge using a linked-list FIFO queue
 - **[Dynamic Memory Programs](https://github.com/NoahHolbrook/dynamic-memory-programs)** — Reusable C dynamic-array library with malloc/calloc/realloc and geometric capacity growth
